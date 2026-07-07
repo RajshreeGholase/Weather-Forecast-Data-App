@@ -127,21 +127,18 @@ pip install streamlit plotly requests
 
 ### Home Page
 
-```markdown
 ![Home](home.png)
-```
+
 
 ### Temperature Forecast
 
-```markdown
+
 ![Temperature](temp.png)
-```
 
 ### Sky Conditions
 
-```markdown
+
 ![Sky](sky.png)
-```
 
 ---
 
